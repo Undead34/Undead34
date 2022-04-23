@@ -3,9 +3,9 @@
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 ![](https://discord.c99.nl/widget/theme-5/833091740134801458.png)
-> Discord: **`Undead34#9907`** <br/>
-> Twitter: [Undead_34](https://twitter.com/Undead_34) <br/>
-> GitHub: [Undead34](https://github.com/Undead34) <br/>
+> Discord: **`Undead34#9907`** 
+> Twitter: [Undead_34](https://twitter.com/Undead_34) 
+> GitHub: [Undead34](https://github.com/Undead34) 
 
 ## Gabriel Maizo as developer 💻
 ### The code editors I use and the languages I know:
