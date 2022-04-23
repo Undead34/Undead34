@@ -40,5 +40,3 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - - Among other 😉
 - 📚I like to learn and teach
 - 🎮 I love programming and video games
-
-<p align="center">Made with ❤️ and Markdown.</p>
