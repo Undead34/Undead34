@@ -1,6 +1,6 @@
 # Hi I'm Undead34!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hello! I'm Gabriel Maizo, I'm passionate about **programming**, **cryptography** and everything related to the world of **web3**.
 
 ![](https://discord.c99.nl/widget/theme-5/833091740134801458.png)
 > Discord: **`Undead34#9907`** 
