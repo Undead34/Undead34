@@ -1,6 +1,8 @@
 # Hi I'm Undead34!
 
 Hello! I'm Gabriel Maizo, I'm passionate about **programming**, **cryptography** and everything related to the world of **web3**.
+A growth mindset and a desire to learn from others.
+Enthusiasm and excitement for open source and better Internet security. 
 
 ![](https://discord.c99.nl/widget/theme-5/833091740134801458.png)
 > Discord: **`Undead34#9907`** 
