@@ -12,7 +12,7 @@ Enthusiasm and excitement for open source and better Internet security.
 > GitHub: [Undead34](https://github.com/Undead34) 
 
 ## Gabriel Maizo as developer 💻
-### The code editors I use and the languages I know:
+### The code editors I use and the programming/markup languages I know:
 <div align="center"> 
   <img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
   <img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
