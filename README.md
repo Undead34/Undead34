@@ -41,4 +41,4 @@ Enthusiasm and excitement for open source and better Internet security.
 - - KonoSuba! 👍
 - - Among other 😉
 - 📚I like to learn and teach
-- 🎮 I love programming and video games
+- 💻 I love programming
