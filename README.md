@@ -27,7 +27,7 @@ Enthusiasm and excitement for open source and better Internet security.
 <div align="center"> 
   <img align="center" alt="Electron" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />
   <img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img align="center" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/Redux/Redux.png" />
+  <img align="center" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
   <img align="center" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
   <img align="center" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 </div>
