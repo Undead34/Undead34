@@ -34,7 +34,7 @@ Enthusiasm and excitement for open source and better Internet security.
   <br/>
 
 [![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=ligth&count_private=true)](https://github.com/Undead34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undead34&langs_count=8)](https://github.com/Undead34)
+[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undead34&langs_count=8)](https://github.com/Undead34)
 
 ## Gabriel Maizo as a Hobbyist ⭐️
 - ❤️ I like anime (Otaku)
