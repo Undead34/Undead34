@@ -11,8 +11,6 @@ Enthusiasm and excitement for open source and better Internet security.
 > 
 > GitHub: [Undead34](https://github.com/Undead34) 
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="undead34" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ve.linkedin.com/in/undead34?trk=profile-badge">Gabriel Maizo</a></div>
-
 ## Gabriel Maizo as developer 💻
 ### Programming/Markup languages I know:
 <div> 
