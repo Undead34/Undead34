@@ -4,7 +4,8 @@ Hello! I'm Gabriel Maizo, I'm passionate about **programming**, **cryptography**
 A growth mindset and a desire to learn from others.
 Enthusiasm and excitement for open source and better Internet security. 
 
-![](https://discord.c99.nl/widget/theme-5/833091740134801458.png)
+[![@Undead34](https://discord.c99.nl/widget/theme-5/833091740134801458.png)](https://discordapp.com/users/Undead34)
+
 > Discord: **`Undead34#9907 || undead34`** 
 > 
 > Twitter: [Undead_34](https://twitter.com/Undead_34) 
