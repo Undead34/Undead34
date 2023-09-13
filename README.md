@@ -13,42 +13,17 @@ Enthusiasm and excitement for open source and better Internet security.
 > GitHub: [Undead34](https://github.com/Undead34) 
 
 ## Gabriel Maizo as developer 💻
-### Programming/Markup languages I know:
-<div> 
-  <img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-   <img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-  <img align="center" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-  <img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+
+<div align="center">
+  <h3><strong> Languages, Frameworks, and Tools</strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,bootstrap,materialui,js,ts,php,react,nextjs,redux,py,firebase,mongodb,mysql,regex,svg,atom,vscode,visualstudio,postman,vercel,electron,flask,heroku,bash,sqlite,bots" alt="skills logos" /> <br>
+<h2/>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux" alt="skills actively learning logos"> <br> 
+<h2/>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=go,wasm,django,cs,dotnet,tensorflow,kotlin,dart,kubernetes,pytorch,unreal,unity,sentry,gcp" alt="skills planning to learn logos">
 </div>
-
-### Frontend:
-<div>
-   <img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-  <img align="center" alt="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
-  <img align="center" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
-</div>
-
-
-### Backend:
-  <div>
-    <img align="center" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-    <img align="center" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-    <img align="center" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-    <img align="center" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
-    <img align="center" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />
-  </div>
-  
-### Database:
-  <div>
-    <img align="center" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-    <img align="center" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-    <img align="center" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-  </div>
-  
-### Frameworks:
-  <img align="center" alt="Electron" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />
-
 <br/>
 
 [![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=ligth&count_private=true)](https://github.com/Undead34)
