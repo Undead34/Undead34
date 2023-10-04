@@ -25,8 +25,9 @@ Enthusiasm and excitement for open source and better Internet security.
   <img src="https://skillicons.dev/icons?i=go,wasm,django,cs,dotnet,tensorflow,kotlin,dart,kubernetes,pytorch,unreal,unity,sentry,gcp" alt="skills planning to learn logos">
 </div>
 <br/>
-
+  
 [![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=ligth&count_private=true)](https://github.com/Undead34)
+[![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=dark&count_private=true)](https://github.com/Undead34)
 
 ## Gabriel Maizo as a Hobbyist ⭐️
 - ❤️ I like anime (Otaku)
