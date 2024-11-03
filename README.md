@@ -1,38 +1,52 @@
-# Hi I'm Undead34!
+# 👋 Hi, I'm Gabriel Maizo (Undead34)
 
-Hello! I'm Gabriel Maizo, I'm passionate about **programming**, **cryptography** and everything related to the world of **web3**.
-A growth mindset and a desire to learn from others.
-Enthusiasm and excitement for open source and better Internet security. 
+### Welcome to my GitHub profile!
 
-[![@Undead34](https://discord.c99.nl/widget/theme-5/833091740134801458.png)](https://discordapp.com/users/Undead34)
+I'm Gabriel, un apasionado desarrollador de software con experiencia en **programación de sistemas**, **ciberseguridad**, y un interés particular en el mundo de **audio en tiempo real** y **criptografía**. Mi enfoque está en escribir código eficiente y explorar nuevas tecnologías, y soy un firme creyente en el aprendizaje continuo y la colaboración en la comunidad de código abierto.
 
-> Discord: **`Undead34#9907 || undead34`** 
-> 
-> Twitter: [Undead_34](https://twitter.com/Undead_34) 
-> 
-> GitHub: [Undead34](https://github.com/Undead34) 
+**Actualmente estoy trabajando con tecnologías como Rust, Python, y C++ y desarrollando proyectos de procesamiento de audio en tiempo real y herramientas personalizadas de redes.** Aquí puedes ver algunos de mis proyectos y colaboraciones en código abierto. 🚀
 
-## Gabriel Maizo as developer 💻
+---
+
+## 📫 Contact & Socials
+
+Conéctate conmigo y hablemos sobre tecnología, proyectos o ideas.
+
+- **Discord**: `Undead34#9907`
+- **Twitter**: [Undead_34](https://twitter.com/Undead_34) 
+- **GitHub**: [Undead34](https://github.com/Undead34)
+
+---
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  <h3><strong> Languages, Frameworks, and Tools</strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,bootstrap,materialui,js,ts,php,react,nextjs,redux,py,firebase,mongodb,mysql,regex,svg,atom,vscode,visualstudio,postman,vercel,electron,flask,heroku,bash,sqlite,bots" alt="skills logos" /> <br>
-<h2/>
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux" alt="skills actively learning logos"> <br> 
-<h2/>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=go,wasm,django,cs,dotnet,tensorflow,kotlin,dart,kubernetes,pytorch,unreal,unity,sentry,gcp" alt="skills planning to learn logos">
+  <h3><strong>Languages, Frameworks, and Tools</strong></h3>
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,cpp,git,github,linux,bash,markdown,vscode,astro,nextjs,react,nodejs,tailwind,opengl,mongodb,mysql" alt="skills logos" /> <br>
+
+  <h3><strong>Currently Learning & Exploring</strong></h3>
+  <img src="https://skillicons.dev/icons?i=wasm,go,kubernetes,pytorch" alt="technologies currently learning logos">
 </div>
 <br/>
-  
-[![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=ligth&count_private=true)](https://github.com/Undead34)
-[![](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&layout=compact&theme=dark&count_private=true)](https://github.com/Undead34)
 
-## Gabriel Maizo as a Hobbyist ⭐️
-- ❤️ I like anime (Otaku)
-- - Kaguya-sama: Love Is War 💘
-- - KonoSuba! 👍
-- - Among other 😉
-- 📚I like to learn and teach
-- 💻 I love programming
+## 💼 Featured Projects
+
+- **Audio Processing System in Rust**  
+  Implementación de un sistema de procesamiento de audio en tiempo real en Rust, con manejo de concurrencia y sincronización de audio. Utiliza estructuras de datos personalizadas y arquitectura basada en nodos para modularidad y escalabilidad.
+  
+- **Custom Network Protocols & Serialization**  
+  Desarrollo de protocolos de red y formatos de archivo personalizados, aplicando técnicas de serialización y deserialización para una comunicación eficiente en sistemas distribuidos.
+
+---
+
+[![Undead34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&theme=dark&count_private=true)](https://github.com/Undead34)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Autodidacta en ciencias de la computación, con conocimientos profundos en programación y estructuras de datos.
+- 💡 En constante búsqueda de nuevos desafíos y aprendizajes en áreas como inteligencia artificial, redes y sistemas distribuidos.
+- ❤️ Aficionado al anime y a compartir conocimiento con otros entusiastas de la tecnología.
+
+
