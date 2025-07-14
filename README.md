@@ -1,3 +1,5 @@
+__Las herramientas flexibles y que separan responsabilidades suelen ser más valiosas a largo plazo que las soluciones _"todo en uno"_ que imponen un modelo de trabajo específico.__
+
 # 👋 Hi, I'm Gabriel Maizo (Undead34)
 
 ### Welcome to my GitHub profile!
