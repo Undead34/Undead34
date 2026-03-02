@@ -1,54 +1,60 @@
-__Las herramientas flexibles y que separan responsabilidades suelen ser más valiosas a largo plazo que las soluciones _"todo en uno"_ que imponen un modelo de trabajo específico.__
+<div align="center">
 
-# 👋 Hi, I'm Gabriel Maizo (Undead34)
+# ⚡ ＵＮＤＥＡＤ３４ ⚡
+### SYSTEMS ENGINEER | C++ & RUST
 
-### Welcome to my GitHub profile!
+*"Flexible tools that separate concerns are usually more valuable in the long run."*
 
-I'm Gabriel, un apasionado desarrollador de software con experiencia en **programación de sistemas**, **ciberseguridad**, y un interés particular en el mundo de **audio en tiempo real** y **criptografía**. Mi enfoque está en escribir código eficiente y explorar nuevas tecnologías, y soy un firme creyente en el aprendizaje continuo y la colaboración en la comunidad de código abierto.
-
-**Actualmente estoy trabajando con tecnologías como Rust, Python, y C++ y desarrollando proyectos de procesamiento de audio en tiempo real y herramientas personalizadas de redes.** Aquí puedes ver algunos de mis proyectos y colaboraciones en código abierto. 🚀
-
----
-
-## 📫 Contact & Socials
-
-Conéctate conmigo y hablemos sobre tecnología, proyectos o ideas.
-
-- **Discord**: `Undead34#9907`
-- **Twitter**: [Undead_34](https://twitter.com/Undead_34) 
-- **GitHub**: [Undead34](https://github.com/Undead34)
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👤 プロフィール | `ABOUT_ME`
+
+I'm Gabriel. Software developer focused on **systems programming, cybersecurity, real-time audio, and cryptography**. I write efficient code, design custom network tools, and constantly explore new technologies.
+
+---
+
+## 🛠️ 技術 | `TECH_STACK`
 
 <div align="center">
-  <h3><strong>Languages, Frameworks, and Tools</strong></h3>
-  <img src="https://skillicons.dev/icons?i=rust,python,typescript,cpp,git,github,linux,bash,markdown,vscode,astro,nextjs,react,nodejs,tailwind,opengl,mongodb,mysql" alt="skills logos" /> <br>
-
-  <h3><strong>Currently Learning & Exploring</strong></h3>
-  <img src="https://skillicons.dev/icons?i=wasm,go,kubernetes,pytorch" alt="technologies currently learning logos">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF71CE" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=01CDFE" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=05FFA1" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFB96" alt="Linux" />
 </div>
-<br/>
 
-## 💼 Featured Projects
+<br>
 
-- **Audio Processing System in Rust**  
-  Implementación de un sistema de procesamiento de audio en tiempo real en Rust, con manejo de concurrencia y sincronización de audio. Utiliza estructuras de datos personalizadas y arquitectura basada en nodos para modularidad y escalabilidad.
-  
-- **Custom Network Protocols & Serialization**  
-  Desarrollo de protocolos de red y formatos de archivo personalizados, aplicando técnicas de serialización y deserialización para una comunicación eficiente en sistemas distribuidos.
+<div align="center">
+  <img src="https://img.shields.io/badge/WASM-000000?style=for-the-badge&logo=webassembly&logoColor=B967FF" alt="WASM" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=01CDFE" alt="Go" />
+</div>
 
 ---
 
-[![Undead34's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&theme=dark&count_private=true)](https://github.com/Undead34)
+## 💻 プロジェクト | `FEATURED_PROJECTS`
+
+* **[Audio Processing System in Rust](#)**
+  Real-time audio processing system. Features concurrency management, audio synchronization, and a node-based architecture.
+* **[Custom Network Protocols & Serialization](#)**
+  Development of custom network protocols and file formats for efficient communication in distributed systems.
 
 ---
 
-## 👨‍💻 About Me
+## 📊 統計 | `SYSTEM_STATS`
 
-- 🎓 Autodidacta en ciencias de la computación, con conocimientos profundos en programación y estructuras de datos.
-- 💡 En constante búsqueda de nuevos desafíos y aprendizajes en áreas como inteligencia artificial, redes y sistemas distribuidos.
-- ❤️ Aficionado al anime y a compartir conocimiento con otros entusiastas de la tecnología.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&hide_border=true&title_color=FF71CE&icon_color=01CDFE&text_color=ffffff&bg_color=0f0f14" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Undead34&hide_border=true&fire=FF71CE&ring=01CDFE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stat=01CDFE&currStreakLabel=FF71CE&bg=0f0f14" alt="GitHub Streak" />
+</div>
 
+---
 
+## 📡 連絡先 | `NETWORK_UPLINK`
+
+<div align="center">
+  <a href="https://twitter.com/Undead_34"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=01CDFE" alt="X/Twitter"></a>
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=B967FF" alt="Discord: Undead34#9907">
+  <a href="https://github.com/Undead34"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF71CE" alt="GitHub"></a>
+</div>
