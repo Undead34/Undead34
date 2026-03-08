@@ -45,7 +45,6 @@ I'm Gabriel. Software developer focused on **systems programming, cybersecurity,
 ## 📊 統計 | `SYSTEM_STATS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Undead34&show_icons=true&hide_border=true&title_color=FF71CE&icon_color=01CDFE&text_color=ffffff&bg_color=0f0f14" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Undead34&hide_border=true&fire=FF71CE&ring=01CDFE&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stat=01CDFE&currStreakLabel=FF71CE&bg=0f0f14" alt="GitHub Streak" />
 </div>
 
